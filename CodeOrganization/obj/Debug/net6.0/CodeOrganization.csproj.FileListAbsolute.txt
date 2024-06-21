@@ -1,0 +1,15 @@
+C:\Users\hugoa\RiderProjects\Desafios03\CodeOrganization\bin\Debug\net6.0\CodeOrganization.exe
+C:\Users\hugoa\RiderProjects\Desafios03\CodeOrganization\bin\Debug\net6.0\CodeOrganization.deps.json
+C:\Users\hugoa\RiderProjects\Desafios03\CodeOrganization\bin\Debug\net6.0\CodeOrganization.runtimeconfig.json
+C:\Users\hugoa\RiderProjects\Desafios03\CodeOrganization\bin\Debug\net6.0\CodeOrganization.dll
+C:\Users\hugoa\RiderProjects\Desafios03\CodeOrganization\bin\Debug\net6.0\CodeOrganization.pdb
+C:\Users\hugoa\RiderProjects\Desafios03\CodeOrganization\obj\Debug\net6.0\CodeOrganization.csproj.AssemblyReference.cache
+C:\Users\hugoa\RiderProjects\Desafios03\CodeOrganization\obj\Debug\net6.0\CodeOrganization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoa\RiderProjects\Desafios03\CodeOrganization\obj\Debug\net6.0\CodeOrganization.AssemblyInfoInputs.cache
+C:\Users\hugoa\RiderProjects\Desafios03\CodeOrganization\obj\Debug\net6.0\CodeOrganization.AssemblyInfo.cs
+C:\Users\hugoa\RiderProjects\Desafios03\CodeOrganization\obj\Debug\net6.0\CodeOrganization.csproj.CoreCompileInputs.cache
+C:\Users\hugoa\RiderProjects\Desafios03\CodeOrganization\obj\Debug\net6.0\CodeOrganization.dll
+C:\Users\hugoa\RiderProjects\Desafios03\CodeOrganization\obj\Debug\net6.0\refint\CodeOrganization.dll
+C:\Users\hugoa\RiderProjects\Desafios03\CodeOrganization\obj\Debug\net6.0\CodeOrganization.pdb
+C:\Users\hugoa\RiderProjects\Desafios03\CodeOrganization\obj\Debug\net6.0\CodeOrganization.genruntimeconfig.cache
+C:\Users\hugoa\RiderProjects\Desafios03\CodeOrganization\obj\Debug\net6.0\ref\CodeOrganization.dll

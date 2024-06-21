@@ -1,0 +1,15 @@
+C:\Users\hugoa\RiderProjects\Desafios03\Aula03-ComportamentosComunsAoMenu\bin\Debug\net6.0\Aula03-ComportamentosComunsAoMenu.exe
+C:\Users\hugoa\RiderProjects\Desafios03\Aula03-ComportamentosComunsAoMenu\bin\Debug\net6.0\Aula03-ComportamentosComunsAoMenu.deps.json
+C:\Users\hugoa\RiderProjects\Desafios03\Aula03-ComportamentosComunsAoMenu\bin\Debug\net6.0\Aula03-ComportamentosComunsAoMenu.runtimeconfig.json
+C:\Users\hugoa\RiderProjects\Desafios03\Aula03-ComportamentosComunsAoMenu\bin\Debug\net6.0\Aula03-ComportamentosComunsAoMenu.dll
+C:\Users\hugoa\RiderProjects\Desafios03\Aula03-ComportamentosComunsAoMenu\bin\Debug\net6.0\Aula03-ComportamentosComunsAoMenu.pdb
+C:\Users\hugoa\RiderProjects\Desafios03\Aula03-ComportamentosComunsAoMenu\obj\Debug\net6.0\Aula03-ComportamentosComunsAoMenu.csproj.AssemblyReference.cache
+C:\Users\hugoa\RiderProjects\Desafios03\Aula03-ComportamentosComunsAoMenu\obj\Debug\net6.0\Aula03-ComportamentosComunsAoMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoa\RiderProjects\Desafios03\Aula03-ComportamentosComunsAoMenu\obj\Debug\net6.0\Aula03-ComportamentosComunsAoMenu.AssemblyInfoInputs.cache
+C:\Users\hugoa\RiderProjects\Desafios03\Aula03-ComportamentosComunsAoMenu\obj\Debug\net6.0\Aula03-ComportamentosComunsAoMenu.AssemblyInfo.cs
+C:\Users\hugoa\RiderProjects\Desafios03\Aula03-ComportamentosComunsAoMenu\obj\Debug\net6.0\Aula03-ComportamentosComunsAoMenu.csproj.CoreCompileInputs.cache
+C:\Users\hugoa\RiderProjects\Desafios03\Aula03-ComportamentosComunsAoMenu\obj\Debug\net6.0\Aula03-ComportamentosComunsAoMenu.dll
+C:\Users\hugoa\RiderProjects\Desafios03\Aula03-ComportamentosComunsAoMenu\obj\Debug\net6.0\refint\Aula03-ComportamentosComunsAoMenu.dll
+C:\Users\hugoa\RiderProjects\Desafios03\Aula03-ComportamentosComunsAoMenu\obj\Debug\net6.0\Aula03-ComportamentosComunsAoMenu.pdb
+C:\Users\hugoa\RiderProjects\Desafios03\Aula03-ComportamentosComunsAoMenu\obj\Debug\net6.0\Aula03-ComportamentosComunsAoMenu.genruntimeconfig.cache
+C:\Users\hugoa\RiderProjects\Desafios03\Aula03-ComportamentosComunsAoMenu\obj\Debug\net6.0\ref\Aula03-ComportamentosComunsAoMenu.dll

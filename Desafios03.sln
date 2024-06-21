@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeOrganization", "CodeOrg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula02-NovaClasseAvaliacao", "Aula02-NovaClasseAvaliacao\Aula02-NovaClasseAvaliacao.csproj", "{C180A249-B141-43D5-96DE-85D1754F88BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula03-ComportamentosComunsAoMenu", "Aula03-ComportamentosComunsAoMenu\Aula03-ComportamentosComunsAoMenu.csproj", "{BA7BFA14-E2BB-4D80-95BE-9B34A120540B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{C180A249-B141-43D5-96DE-85D1754F88BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C180A249-B141-43D5-96DE-85D1754F88BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C180A249-B141-43D5-96DE-85D1754F88BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA7BFA14-E2BB-4D80-95BE-9B34A120540B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7BFA14-E2BB-4D80-95BE-9B34A120540B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7BFA14-E2BB-4D80-95BE-9B34A120540B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7BFA14-E2BB-4D80-95BE-9B34A120540B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
